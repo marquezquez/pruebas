@@ -1,7 +1,7 @@
 
 <HEAD>
    <TITLE>Inserción de Equipos de Futbol. </TITLE>
-   <LINK REL="stylesheet" TYPE="text/css" HREF="estilo.css">
+   <LINK REL="stylesheet" TYPE="text/css" >
 </HEAD>
 
 <BODY> 
