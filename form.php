@@ -47,7 +47,7 @@ if (isset($_REQUEST['insertar'])) {
    		 "<li>Numero de goles en 2017: $goles17\n".
 		"<li>Observaciones: $observaciones\n".
 		"</ul>".
-		"[<A HREF='Ejercicio 4.php'> Volver </A>]\n";
+		"[<A HREF='form.php'> Volver </A>]\n";
 }
 }
 else {
